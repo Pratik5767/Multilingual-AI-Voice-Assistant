@@ -1,0 +1,9 @@
+SpeechRecognition==3.10.0
+pipwin
+pyaudio
+gTTs
+google-generativeai
+python-dotenv
+streamlit
+
+-e .
